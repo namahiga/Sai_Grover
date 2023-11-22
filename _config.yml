@@ -1,4 +1,29 @@
-title: About Me
+title: Your Name - Portfolio
+
+# Enable the "About Me" section in the header
+show_about: true
+
+# Enable a dedicated section for downloads
 show_downloads: true
+
+# Use jekyll-theme-minimal for a clean and minimalistic design
 theme: jekyll-theme-minimal
 
+# Define navigation links
+navigation_links:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
+
+# Add social media links
+social_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/your-linkedin-profile
+  - title: GitHub
+    url: https://github.com/your-github-profile
+
+# Add a custom favicon (replace "favicon.ico" with your actual favicon file)
+favicon: /favicon.ico
