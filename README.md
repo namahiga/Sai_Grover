@@ -16,7 +16,7 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 - Automated service work using Selenium library and Salesforce API, boosting productivity by 60%.
 - Designed and assembled 3 electrical harnesses for specific CAN signals within EV buses.
 - Optimized ten SQL databases, resulting in a 20% increase in search speed for a diagnostic software tool.
-       
+
 ### Proterra, Greenville, South Carolina (January 2022 - May 2022)
 **Validation Engineering Intern**
 - Automated software for test execution and data collection, saving the equivalent of three employees' work.
@@ -29,7 +29,8 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 
 ### University of Toledo, IT Student Assistant (December 2019 - February 2023)
 - Resolved IT problems averaging 300 calls/week from students and hospital staff.
-- Mentored co-workers with complex technical problems and worked on over 500 IT issue tickets per month on average.
+- Mentored co-workers with complex technical problems
+- Worked on over 500 IT issue tickets per month on average.
 
 ## Hackathons
 ### Harvard University, Hack Harvard (October 2023)
@@ -64,7 +65,7 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 
 ## Contact Information
 - Email: saigrover2017@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sai-grover/
-- GitHub: https://github.com/namahiga/
+- LinkedIn: [Sai Grover](https://www.linkedin.com/in/sai-grover/)
+- GitHub: [namahiga](https://github.com/namahiga/)
 
 Feel free to reach out for collaborations, questions, or discussions!
