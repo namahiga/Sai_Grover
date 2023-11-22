@@ -21,9 +21,9 @@ navigation_links:
 # Add social media links
 social_links:
   - title: LinkedIn
-    url: https://www.linkedin.com/in/your-linkedin-profile
+    url: https://www.linkedin.com/in/sai-grover/
   - title: GitHub
-    url: https://github.com/your-github-profile
+    url: https://github.com/namahiga/
 
 # Add a custom favicon (replace "favicon.ico" with your actual favicon file)
-favicon: /favicon.ico
+favicon: favicon-16x16.png
