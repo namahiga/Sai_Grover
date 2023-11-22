@@ -61,7 +61,13 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 - Learned about the Greek culture of BETA THETA PI.
 
 ## Skills
-- [List your technical and soft skills here]
+- Languages: Python, Java, C++, Perl, SQL, Dart, HTML, CSS 
+
+- Framework and Libraries: Pandas, NumPy, Tkinter, Beautiful Soap, Selenium, Appium, Android Studio, Flutter, AWS. 
+
+- Technologies: Microsoft Excel, Smartsheet, Visio, Adobe Photoshop, Linux (Ubuntu, Kali), Salesforce, PowerShell, tableau, Jira, Git, Arduino, Raspberry pi 
+
+- Soft Skills: Creative, Cooperative, Considerate.
 
 ## Contact Information
 - Email: saigrover2017@gmail.com
