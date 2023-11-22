@@ -3,7 +3,7 @@
 ## About Me
 Welcome to my professional portfolio! I am a Computer Science and Engineering graduate from The University of Toledo, passionate about software automation and innovation.
 
-![Profile Picture](https://photos.app.goo.gl/bYYjCwsUq5CwAAmy7)
+![Profile Picture](OrderOfEngineering.png)
 
 ## Education
 **The University of Toledo, Toledo, Ohio**
