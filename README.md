@@ -1,96 +1,70 @@
-# Software Automation
+# Professional Portfolio: Sai Grover
 
-### Education
-The University of Toledo, Toledo, Ohio
-- Bachelor of Science: Computer Science and Engineering 
-- Grade Point Average: 3.5  
+## About Me
+Welcome to my professional portfolio! I am a Computer Science and Engineering graduate from The University of Toledo, passionate about software automation and innovation.
 
-### Work Experience
--Proterra, Greenville, South Carolina	May 2022 - September 2022 
+![Profile Picture](https://photos.app.goo.gl/bYYjCwsUq5CwAAmy7)
 
--- Diagnostic Engineering Intern 
+## Education
+**The University of Toledo, Toledo, Ohio**
+- Bachelor of Science: Computer Science and Engineering
+- Grade Point Average: 3.5
 
--- Automated service work using Selenium library and Salesforce API to increase productivity by 60%. 
+## Work Experience
+### Proterra, Greenville, South Carolina (May 2022 - September 2022)
+**Diagnostic Engineering Intern**
+- Automated service work using Selenium library and Salesforce API, boosting productivity by 60%.
+- Designed and assembled 3 electrical harnesses for specific CAN signals within EV buses.
+- Optimized ten SQL databases, resulting in a 20% increase in search speed for a diagnostic software tool.
+       
+### Proterra, Greenville, South Carolina (January 2022 - May 2022)
+**Validation Engineering Intern**
+- Automated software for test execution and data collection, saving the equivalent of three employees' work.
+- Implemented over 100 Smartsheet workflows for design, assembly, execution, and safety checks.
+- Conducted validation and data analysis by sampling over 100 CAN signals for successful safety checks.
 
--- Designed and assembled 3 electrical harnesses to obtain specific CAN signals within EV buses. 
+### University of Toledo, Peer Mentor (September 2021-Present)
+- Clarified over 500 questions on data structures and polished over 80 projects for final submission.
+- Mentored over 60 students, fostering academic success and assisting with extracurricular activities.
 
--- Optimized ten SQL databases for a customer diagnostic software tool, resulting in a 20% increase in search speed. 
-  
--Proterra, Greenville, South Carolina  January 2022 - May 2022 
+### University of Toledo, IT Student Assistant (December 2019 - February 2023)
+- Resolved IT problems averaging 300 calls/week from students and hospital staff.
+- Mentored co-workers with complex technical problems and worked on over 500 IT issue tickets per month on average.
 
--- Validation Engineering Intern	
+## Hackathons
+### Harvard University, Hack Harvard (October 2023)
+- Created a website, Android, and IOS app using Flutter for polling on trending topics from Google API.
+- Guided a group of 3 non-technical beginners to create a functional MVP.
 
--- Automated software for test execution and data collection, leading to significant cost savings equivalent to the work of three employees. 
+### University of Cincinnati, BH.AI (February 2023)
+- Developed a self-learning AI chatbot acting as a personal therapist and self-journaling platform.
+- Collaborated with a team of 4 to integrate an extensive conversational dataset into the NLP machine learning model.
 
--- Digitized the design, assembly, execution, and safety checks by implementing over 100 Smartsheet workflows. 
+### UToledo Hackathon, Organizer/Judge (March 2021)
+- Organized a virtual hackathon with over 50 team participants.
+- Mentored 10+ teams, providing guidance in a fast-paced, innovative environment.
 
--- Conducted validation and data analysis by sampling more than 100 CAN signals to perform safety checks successfully
+### CUNY Hackathon, Green Hacker Award (February 2021)
+- Worked independently and collaboratively to design a website ([RecycleKit](https://rejunkit.bubbleapps.io/version-test/)) for recycling waste material.
 
--University of Toledo, Peer Mentor	September 2021-Present 
+## Leadership Experience
+### ACM-W (Association for Computing Machinery's Council) (January 2021 - May 2022)
+**Vice President-Treasurer**
+- Managed expenses and recorded them in Excel for the organization.
+- Initiated events on campus, enrolling more than 50 students.
+- Communicated with new members to keep them engaged.
 
--- Clarified over 500 questions regarding data structures and polished over 80 projects for final submission.  
+### Greek Fraternity (BETA THETA PI) (September 2020 - May 2021)
+**Vice President-Communications**
+- Managed social media and communication with other fraternities and sororities.
+- Learned about the Greek culture of BETA THETA PI.
 
--- Mentored over 60 students in my class to achieve academic success. 
+## Skills
+- [List your technical and soft skills here]
 
--- Helped students outside of the classroom with their extracurricular. 
+## Contact Information
+- Email: [saigrover2017@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/sai-grover/]
+- GitHub: [https://github.com/namahiga/]
 
-- University of Toledo, IT Student Assistant	December 2019 - February 2023 
-
--- Resolved IT problems on calls averaging 300 calls/week from students and hospital staff.   
-
--- Helped and mentored co-workers with more complex technical-related problems. 
-
--- Worked on over 500 tickets per month on average regarding IT issues that the users came across. 
-
-
-### Hackathons
-- Harvard University, Hack Harvard	October 2023 
-
--- Created a website, Android, and IOS app using Flutter to take polls on trending topics extracted from Google API and performed Data analysis on the Poll result. 
-
--- Guided a Group of 3 non-technical beginner hackers to create a functional MVP. 
-  
--University of Cincinnati, BH.AI	February 2023 
-
--- Developed a self-learning AI chatbot that talks with users as a personal therapist and self-journaling platform. 
-
--- Collaborated with a team of 4 and integrated an extensive conversational data set into the NLP machine learning model.
-
--UToledo Hackathon, Organizer/Judge	March 2021 
-
--- Organized and planned a virtual hackathon for the University of Toledo students and had over 50 team participants. 
-
--- Mentored over 10 teams with their projects and guided them till completion. 
-
--- Worked in a fast-paced, innovative environment with the hackers to get better analysis for final judgment. 
-
-
-- CUNY Hackathon, Green Hacker Award	February 2021 
-
--- Demonstrated ability to work independently and collaborate with 3 teammates to achieve a great project. 
-
--- Designed a website (https://rejunkit.bubbleapps.io/version-test/) to recycle waste material and provide value for it.
-
-
-### Leadership Experience 
-
-- ACM-W (Association for Computing Machinery's Council)	January 2021 - May 2022 
-
--- Vice President-Treasurer  
-
--- Managed expenses and recorded them in Excel for the organization.  
-
--- Initiated organizing events on campus to enroll more than 50 students.  
-
--- Communicated with new members to keep them enrolled. 
-
-  
-
-- Greek Fraternity (BETA THETA PI)	September 2020 - May 2021 
-
--- Vice President-Communications 
-
--- Learned about the Greek culture of BETA THETA PI. 
-
--- Handled social media and communication with other Fraternities and sororities.
-
+Feel free to reach out for collaborations, questions, or discussions!
