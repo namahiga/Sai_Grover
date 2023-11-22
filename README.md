@@ -63,8 +63,8 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 - [List your technical and soft skills here]
 
 ## Contact Information
-- Email: [saigrover2017@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/sai-grover/]
-- GitHub: [https://github.com/namahiga/]
+- Email: saigrover2017@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sai-grover/
+- GitHub: https://github.com/namahiga/
 
 Feel free to reach out for collaborations, questions, or discussions!
