@@ -33,6 +33,10 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 - Worked on over 500 IT issue tickets per month on average.
 
 ## Hackathons
+###University of Arizona, Space Hacks, 1st Price (March 2024)
+- Applied machine learning to identify potential solutions to Arizona's water problem.
+-	Used GIS to digitally map agricultural land and water bodies consumed for agriculture.
+
 ### Harvard University, Hack Harvard (October 2023)
 - Created a website, Android, and IOS app using Flutter for polling on trending topics from Google API.
 - Guided a group of 3 non-technical beginners to create a functional MVP.
