@@ -33,7 +33,7 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 - Worked on over 500 IT issue tickets per month on average.
 
 ## Hackathons
-###University of Arizona, Space Hacks, 1st Price (March 2024)
+### University of Arizona, Space Hacks, 1st Place (March 2024)
 - Applied machine learning to identify potential solutions to Arizona's water problem.
 -	Used GIS to digitally map agricultural land and water bodies consumed for agriculture.
 
