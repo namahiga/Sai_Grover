@@ -11,8 +11,14 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 - Grade Point Average: 3.5
 
 ## Work Experience
+### Weslabs.ai, Remote (February 2024 - May 2024)
+**Machine Learning Intern**
+- Developed an automated scraper, increasing data collection efficiency by 30% through data parsing techniques.
+- Collaborated in the development of a chatbot using Python and LangChain, improving client engagement rates by 25%.
+- Trained LLM model based on sentimental analysis and selective prompting to prioritize custom information when replying to conversation.
+
 ### Proterra, Greenville, South Carolina (May 2022 - September 2022)
-**Diagnostic Engineering Intern**
+**Software Engineering Intern**
 - Automated service work using Selenium library and Salesforce API, boosting productivity by 60%.
 - Designed and assembled 3 electrical harnesses for specific CAN signals within EV buses.
 - Optimized ten SQL databases, resulting in a 20% increase in search speed for a diagnostic software tool.
