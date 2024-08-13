@@ -11,6 +11,14 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 - Grade Point Average: 3.5
 
 ## Work Experience
+### Global Payments Inc., Atlanta, GA (May 2024 – Present)
+**Test Analyst Intern**
+-	Conducted comprehensive online, batch, and data verification testing to ensure the accuracy and reliability of financial transactions.
+-	Developed and executed detailed test plans and test cases in collaboration with stakeholders, enhancing overall test coverage and effectiveness.
+-	Utilized automation tools like Selenium and HP Quick Test Professional to automate repetitive test scenarios, increasing testing efficiency by 40%.
+-	Documented test results meticulously and generated detailed defect reports, tracking defects through to resolution and ensuring closure.
+-	Gained in-depth knowledge of payment card industry standards and security compliance, integrating these standards into testing activities to ensure regulatory compliance.
+
 ### Weslabs.ai, Remote (February 2024 - May 2024)
 **Machine Learning Intern**
 - Developed an automated scraper, increasing data collection efficiency by 30% through data parsing techniques.
