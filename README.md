@@ -11,7 +11,7 @@ Welcome to my professional portfolio! I am a Computer Science and Engineering gr
 - Grade Point Average: 3.5
 
 ## Work Experience
-### Global Payments Inc., Atlanta, GA (May 2024 – Present)
+### Global Payments Inc., Tempe, AZ (May 2024 – August 2024)
 **Test Analyst Intern**
 -	Conducted comprehensive online, batch, and data verification testing to ensure the accuracy and reliability of financial transactions.
 -	Developed and executed detailed test plans and test cases in collaboration with stakeholders, enhancing overall test coverage and effectiveness.
